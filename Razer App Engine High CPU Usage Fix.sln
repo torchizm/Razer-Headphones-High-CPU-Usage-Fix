@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30503.244
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Razer App Engine High CPU Usage Fix", "Razer App Engine HİGH CPU Usage Fix\Razer App Engine High CPU Usage Fix.csproj", "{1550D974-FD2E-4B4B-8217-7A2F191CB097}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Razer App Engine High CPU Usage Fix", "Razer App Engine High CPU Usage Fix\Razer App Engine High CPU Usage Fix.csproj", "{1550D974-FD2E-4B4B-8217-7A2F191CB097}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -20,6 +20,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {94325BE8-3F5C-4FA1-8448-5C203C4DAA72}
+		SolutionGuid = {8D2BD266-D077-46A4-B4C0-2C8DC2FD213B}
 	EndGlobalSection
 EndGlobal
