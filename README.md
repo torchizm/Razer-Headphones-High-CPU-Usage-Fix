@@ -1,1 +1,3 @@
 # Razer-Headphones-High-CPU-Usage-Fix
+
+I just bought a new headphone from Razer and just realized it consumes my CPU. I searched on Google and found a solution that restarting Windows audio service after boot it fixes magicly. So I made an automation to do that. When boot and initialize Razer AppEngine it restarts Windows audio service. Thanks Razer, next time just give us fully working hardwares not broken softwares.
